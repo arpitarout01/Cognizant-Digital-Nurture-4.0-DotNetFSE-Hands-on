@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\source\\repos\\KafkaChatConsumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F90F25F-68BA-4715-9924-0C6112C804F2}|KafkaChatConsumer\\KafkaChatConsumer.csproj|c:\\users\\kiit\\source\\repos\\kafkachatconsumer\\kafkachatconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F90F25F-68BA-4715-9924-0C6112C804F2}|KafkaChatConsumer\\KafkaChatConsumer.csproj|solutionrelative:kafkachatconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E077F0E4-D598-D8D4-BF43-07F7C06554FA}|..\\KafkaChatPublisher\\KafkaChatPublisher\\KafkaChatPublisher.csproj|c:\\users\\kiit\\source\\repos\\kafkachatpublisher\\kafkachatpublisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\KafkaChatPublisher\\KafkaChatPublisher\\Program.cs",
+              "RelativeDocumentMoniker": "..\\KafkaChatPublisher\\KafkaChatPublisher\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\KafkaChatPublisher\\KafkaChatPublisher\\Program.cs",
+              "RelativeToolTip": "..\\KafkaChatPublisher\\KafkaChatPublisher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:30:19.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\KafkaChatConsumer\\KafkaChatConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaChatConsumer\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\KafkaChatConsumer\\KafkaChatConsumer\\Program.cs",
+              "RelativeToolTip": "KafkaChatConsumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:27:25.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

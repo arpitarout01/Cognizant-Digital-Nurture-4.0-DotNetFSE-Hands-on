@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\source\\repos\\KafkaChatPublisher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8258C2D-959A-47CC-B0D2-FDAB47C05215}|KafkaChatPublisher\\KafkaChatPublisher.csproj|c:\\users\\kiit\\source\\repos\\kafkachatpublisher\\kafkachatpublisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8258C2D-959A-47CC-B0D2-FDAB47C05215}|KafkaChatPublisher\\KafkaChatPublisher.csproj|solutionrelative:kafkachatpublisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\KafkaChatPublisher\\KafkaChatPublisher\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaChatPublisher\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\KafkaChatPublisher\\KafkaChatPublisher\\Program.cs",
+              "RelativeToolTip": "KafkaChatPublisher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:26:54.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

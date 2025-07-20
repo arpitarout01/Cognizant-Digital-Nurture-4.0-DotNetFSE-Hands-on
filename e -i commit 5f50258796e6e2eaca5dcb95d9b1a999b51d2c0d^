@@ -1,0 +1,101 @@
+[33mcommit 5f50258796e6e2eaca5dcb95d9b1a999b51d2c0d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: arpitarout01 <arpitarout132@gmail.com>
+Date:   Sun Jul 20 11:30:24 2025 +0530
+
+    Added other codes for week 5
+
+[33mcommit d98f13786585d1e2453e2f44931c425ef22e6dcc[m
+Author: arpitarout01 <arpitarout132@gmail.com>
+Date:   Sun Jul 20 02:39:00 2025 +0530
+
+    Added Microservices Handson
+
+[33mcommit 1fe694f26422ac023955c0b5de8ba1692a55ecf0[m
+Author: arpitarout01 <arpitarout132@gmail.com>
+Date:   Sun Jul 20 01:47:50 2025 +0530
+
+    Added WebApi Handson 6
+
+[33mcommit f895f962ad2449bc931ff0403d9c42e8be9e32db[m
+Author: arpitarout01 <arpitarout132@gmail.com>
+Date:   Mon Jul 14 13:39:34 2025 +0530
+
+    Initial commit - WebAPI Hands-on
+
+[33mcommit ad6ae496678c1945a6089302d0707c35e092dc00[m
+Author: arpitarout01 <arpitarout132@gmail.com>
+Date:   Sun Jul 6 00:18:57 2025 +0530
+
+    Added Entity Framework Hands-on
+
+[33mcommit 2c10ec6cda241aa9f58825d54624baa9763af3d9[m
+Author: arpitarout01 <arpitarout132@gmail.com>
+Date:   Mon Jun 30 12:26:00 2025 +0530
+
+    Initial commit
+
+[33mcommit 6d6cc34820a3acc1d6dcd721b7964a58ad94d986[m
+Author: arpitarout01 <arpitarout132@gmail.com>
+Date:   Sun Jun 29 16:41:32 2025 +0530
+
+    Initial commit
+
+[33mcommit 1e2ceb460e345e5dc433f76b4400b38b27395aec[m
+Author: Arpita Rout <arpitarout132@gmail.com>
+Date:   Sat Jun 21 19:08:41 2025 +0530
+
+    Adding Financial Forecasting folder with Code and Output
+
+[33mcommit fef56c73036c2dd1912ce98e7953d463078a12d2[m
+Author: Arpita Rout <156882906+arpitarout01@users.noreply.github.com>
+Date:   Sat Jun 21 17:05:49 2025 +0530
+
+    Delete 1_Data structures and Algorithms/2_E-commerce Platform Search Function/Output/copy
+
+[33mcommit 6a19b49850e58414f0967b354a43a3fcd041b206[m
+Author: Arpita Rout <arpitarout132@gmail.com>
+Date:   Sat Jun 21 17:05:54 2025 +0530
+
+    Added output screenshot for Ecommerce Search Function
+
+[33mcommit cbe26142cc82fee0578977e6ceeb56170fa91470[m
+Author: Arpita Rout <arpitarout132@gmail.com>
+Date:   Sat Jun 21 16:52:09 2025 +0530
+
+    Adding Ecommerce Website Search Function with Code and Output
+
+[33mcommit ba652492959eb06bdfcd5251bf27055b3162c18a[m
+Author: Arpita Rout <arpitarout132@gmail.com>
+Date:   Sat Jun 21 00:12:25 2025 +0530
+
+    Added Factory Method Pattern folder with code and output
+
+[33mcommit 42096f18dd12c554a4f29beb3b16c3fa0a4226f8[m
+Author: Arpita Rout <arpitarout132@gmail.com>
+Date:   Fri Jun 20 22:13:20 2025 +0530
+
+    Added Singleton Pattern implementation with code and output (removed accidental file)
+
+[33mcommit 1625ef773c101c7aab8863616752e3ee95259866[m
+Author: Arpita Rout <arpitarout132@gmail.com>
+Date:   Fri Jun 20 21:46:15 2025 +0530
+
+    Deleted 1_Design Patterns and Principles folder
+
+[33mcommit 90b668dfd8f85ea5c3f500cfac604c12ee20f9e6[m
+Author: Arpita Rout <arpitarout132@gmail.com>
+Date:   Fri Jun 20 20:56:55 2025 +0530
+
+    Added Singleton Pattern handson with Code and Output folders
+
+[33mcommit 10f28b6da64e8fb6886895ffa4d1adf60323d337[m
+Author: Arpita Rout <156882906+arpitarout01@users.noreply.github.com>
+Date:   Fri Jun 20 20:25:21 2025 +0530
+
+    Delete 1_Design Patterns and Principles/1_Implementing the Singleton Pattern/Code directory
+
+[33mcommit 36f6d6886cd9ced12db994dc715e65712ebb89be[m
+Author: Arpita Rout <156882906+arpitarout01@users.noreply.github.com>
+Date:   Fri Jun 20 20:24:13 2025 +0530
+
+    Create example.txt
